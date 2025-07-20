@@ -1,3 +1,8 @@
+Hafidah Hasah (tabel Comments)
+https://youtu.be/LlJakpTacMQ?si=5NcHUvjZWEgCDqFL
+
+ProjekUAS_ResepMakanan_Kel7(https://drive.google.com/file/d/1Y41xSxbpYsE8okPp8ml5widFSVW_0aHA/view?usp=drivesdk)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
